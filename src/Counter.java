@@ -12,9 +12,10 @@ public class Counter {
         
         try {
             countOccurreces(firstParameter, secondParameter);
-
+                
         } catch (InvalidParametersException e) {
             System.err.println(e.getMessage());
+      
         }
 
         terminal.close();
@@ -27,6 +28,6 @@ public class Counter {
 
         } for(int count = param1; count <= param2; count++) {
             System.out.println("Occurrence: " + count);
-        }
+        }          
     }
 }
