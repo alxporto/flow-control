@@ -3,6 +3,7 @@ import java.util.Scanner;
 
 public class Counter {
     public static void main(String[] args)  {
+
         Scanner terminal = new Scanner(System.in).useLocale(Locale.CANADA);
 
         System.out.println("Type the first parameter:");
@@ -18,9 +19,10 @@ public class Counter {
       
         }
 
-        terminal.close();
-    }
+        terminal.close(); 
 
+    } 
+    
     static void countOccurreces(int param1, int param2) throws InvalidParametersException {
 
         if (param1 > param2)  {
