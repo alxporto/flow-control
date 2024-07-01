@@ -16,13 +16,15 @@ public class Counter {
         } catch (InvalidParametersException e) {
             System.err.println(e.getMessage());
         }
+
+        terminal.close();
     }
 
     static void countOccurreces(int param1, int param2) throws InvalidParametersException {
 
         if (param1 > param2)  {
             throw new InvalidParametersException("The second parameter must be greater than the first");
-            
+
         } for(int count = param1; count <= param2; count++) {
             System.out.println("Occurences: " + count);
         }
