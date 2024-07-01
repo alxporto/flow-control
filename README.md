@@ -1,10 +1,10 @@
 <h1>
-    <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
+    <a href="https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5">
+     <img align="center" width="40px" src="https://hermes.dio.me/tracks/a039b34c-7aa8-4a3d-b765-07c8c837f67a.png"></a>
     <span>Flow Control - Challenge</span>
 </h1>
 
-Repository developed for educational purposes, providing a challenge for the course **Creating a Small System to Validate the Selection Process** from [Digital Innovation One](https://www.dio.me/).
+Repository developed for educational purposes, providing a challenge for the course **Creating a Small System to Validate the Selection Process** from [Bootcamp Santander 2024 - Backend com Java](https://web.dio.me/track/7da9882f-2f0d-4f4d-b997-f300ce50f9f5).
 
 [![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://web.dio.me/project/desafio-de-projeto-titulo/learning/e520bb56-c720-4985-96e5-1a51a6280ec7?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined)
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-E94D5F?style=for-the-badge)](https://web.dio.me/project/desafio-de-projeto-titulo/learning/e520bb56-c720-4985-96e5-1a51a6280ec7?back=/track/santander-2024-backend-com-java&tab=undefined&moduleId=undefined) 
