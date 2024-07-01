@@ -26,7 +26,7 @@ public class Counter {
             throw new InvalidParametersException("The second parameter must be greater than the first");
 
         } for(int count = param1; count <= param2; count++) {
-            System.out.println("Number: " + count);
+            System.out.println("Occurrence: " + count);
         }
     }
 }
