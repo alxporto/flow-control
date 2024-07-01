@@ -5,9 +5,9 @@ public class Counter {
     public static void main(String[] args)  {
         Scanner terminal = new Scanner(System.in).useLocale(Locale.CANADA);
 
-        System.out.println("Type the first parameter: ");
+        System.out.println("Type the first parameter:");
         int firstParameter = terminal.nextInt();
-        System.out.println("Type the second parameter: ");
+        System.out.println("Type the second parameter:");
         int secondParameter = terminal.nextInt();
         
         try {
